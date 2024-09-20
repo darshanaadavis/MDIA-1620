@@ -27,3 +27,15 @@ Darshanaa Davis
 
    
 > despondent
+
+
+3. What I learned 
+>How to troubleshoot based on the output suggestions in terminal
+>How to execute basic code in Java
+>How to update history in GitHub via terminal
+
+2. What I found confusing
+>Figuring out how to troubleshoot
+>How to identify myself in terminal when it asks
+
+1. Overwhelmed but excited for the weekend
