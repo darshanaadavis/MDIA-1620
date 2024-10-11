@@ -40,7 +40,11 @@ Darshanaa Davis
 
 1. Overwhelmed but excited for the weekend
 
-3. Things I'm confused about (lab 6)
+
+
+
+Things I'm confused about (lab 6)
+
 >I still struggle with pushing to GitHub (I'm going to review my notes over the long weekend, because this is more a review thing I can do on my own)
 >How to use if statements and use them in the code of console.log to output the locations of the horses. I ended up changing my old code so that the array for the horses location were all strings and not boolean values (true/false)
 >How to organise my files in VS code!
