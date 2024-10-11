@@ -1,7 +1,7 @@
 
 let horseName = "Tabby"
 console.log ("Hello, this is my horse Tabitha. But most of the time we just call her " + horseName);
-let isHorseInside= true;
+let isHorseInside= "inside";
 let isHorse
 
 constSTABLE_MONTHLY_FEE = 130
@@ -31,7 +31,7 @@ console.log(word.length);
 
 let horseNames = [horseName,"Strawberry","Pandora"];
 let horseAges=[3, 2, 10];
-let horseLocation= ["inside", "outside", "gone (we lost her)"]
+let horseLocation= [isHorseInside, "outside", "gone (we lost her)"]
 console.log(horseNames.length);
 //*prints out 3*//
 
